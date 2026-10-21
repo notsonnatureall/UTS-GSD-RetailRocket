@@ -1,0 +1,5 @@
+data/events.csv
+ecommerce-dataset.zip
+myvenv/
+.ipynb_checkpoints/
+__pycache__/
